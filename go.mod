@@ -1,4 +1,4 @@
-module go.bug.st/serial
+module github.com/marvelou-s/serial
 
 go 1.13
 
